@@ -15,8 +15,8 @@ export default function Footer() {
 										</a>
 									</Link>
 									<p>
-										Irflex ayuda millions of people get the best Wordpress theme design and offers
-										software reviews, ratings, comprehensive services.
+										En IrFlex, nos esforzamos por ofrecer una solución para sus necesidades
+										gracias a nuestro sistema donde tu colocas el precio y así ahorra más.
 									</p>
 								</div>
 							</div>
@@ -117,7 +117,7 @@ export default function Footer() {
 						<div className="site-copyright wow fadeInUp" data-wow-delay=".2" data-wow-duration="1s">
 							<p>
 								&copy; 2023{" "}
-								<Link href="#">
+								<Link href="https://irflexapp.com/">
 									<a>IrFlex</a>
 								</Link>{" "}
 								All Rights Reserved.

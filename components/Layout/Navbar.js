@@ -92,16 +92,16 @@ export default function Navbar() {
 									</li> */}
 									<li>
 										<Link href="/contact">
-											<a>Contact</a>
+											<a>Contacto</a>
 										</Link>
 									</li>
 								</ul>
 							</div>
 						</div>
 						<div className="header-right-element text-white">
-							<a href="#">login</a>
+							<a href="#">Acceder</a>
 							<Link href="/contact">
-								<a className="theme-btn black">get started</a>
+								<a className="theme-btn black">Regístrate</a>
 							</Link>
 						</div>
 					</div>

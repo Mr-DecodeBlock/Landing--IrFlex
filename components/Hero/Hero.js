@@ -8,10 +8,9 @@ export default function Hero() {
 					<div className="row">
 						<div className="col-xl-7 col-12 col-lg-10 offset-lg-1 offset-xl-0">
 							<div className="hero-contents">
-								<h1>Secure solutions for digital assets and money easily</h1>
+								<h1>Todos tus servicios en donde el precio lo pones tu</h1>
 								<p>
-									The easiest, safest and fastest app for cryptocurrency. banks for international
-									money transfers and online money transfer services considered the safest way.
+									Mejoramos la calidad de vida de todos nuestros usuarios al permitir el acceso a productos y servicios del mercado, ajustando los precios según la oferta y la demanda.
 								</p>
 								<a href="#" className="app-download-btn">
 									<img src="img/apple.png" alt="" />

@@ -13,7 +13,7 @@ export default function indexThree() {
 	return (
 		<>
 			<Head>
-				<title>Irflex - Donde el precio lo pones Tú Template 3</title>
+				<title>Irflex - Donde el precio lo pones tu Template 3</title>
 			</Head>
 			<HeroThree />
 			<FeaturesFour />
