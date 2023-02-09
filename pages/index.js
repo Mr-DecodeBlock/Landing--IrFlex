@@ -8,7 +8,7 @@ import Cta from "../components/HomeThree/Cta";
 import PricingContentTwo from "../components/Pricing/PricingContentTwo";
 import FeaturesFour from "./../components/Features/FeaturesFour";
 import TestimonialTwo from "./../components/Testimonial/TestimonialTwo";
-import CallToAction from "./../components/defaultHome/CallToAction";
+import CallToAction from "../components/DefaultHome/CallToAction";
 
 export default function indexThree() {
 	return (
