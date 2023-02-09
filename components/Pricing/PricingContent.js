@@ -38,7 +38,7 @@ export default function PricingContent() {
 						<div className="section-title">
 							<h2 className="wow fadeInUp">The most affordable pricing plan for you</h2>
 							<p className="wow fadeInUp pt-4" data-wow-delay=".3s">
-								xmoze offers the most affordable planner you can use to improve your business. Such
+								Irflex offers the most affordable planner you can use to improve your business. Such
 								affordable prices are not available anywhere.
 							</p>
 						</div>

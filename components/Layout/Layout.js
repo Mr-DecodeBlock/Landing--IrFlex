@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import Preloader from "../Preloader/Preloader";
+//import Preloader from "../Preloader/Preloader";
 import ScrollUp from "../ScrollUp/ScrollUp";
 import Footer from "./Footer";
 import FooterTwo from "./FooterTwo";
@@ -16,7 +16,7 @@ export default function Layout({ children }) {
 			{router.pathname === "/index-two" ? <FooterTwo /> : <Footer />}
 
 			<ScrollUp />
-			<Preloader />
+			{/*<Preloader />*/}
 		</>
 	);
 }

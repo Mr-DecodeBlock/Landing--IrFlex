@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*
-Theme Name: Xmoze
+Theme Name: Irflex
 Author: ModinaTheme
 Author URI: https://themeforest.net/user/modinatheme/
 Description: SaaS Bootstrap HTML5 Landing Template
@@ -1412,7 +1412,7 @@ p b {
 	position: absolute;
 	left: 0;
 	top: 0;
-	font-family: "xmoze";
+	font-family: "Irflex";
 	content: "";
 	color: #1a1aff;
 }
@@ -5888,7 +5888,7 @@ header.header-1 .header-right-element .color-2:hover {
 	top: 75px;
 	content: "";
 	z-index: -1;
-	font-family: "xmoze";
+	font-family: "Irflex";
 	font-size: 45px;
 	font-weight: 400;
 	-webkit-transform: translateX(-50%);

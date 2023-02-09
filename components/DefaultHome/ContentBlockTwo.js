@@ -4,7 +4,7 @@ const data = [
 	{
 		id: 1,
 		title: "Download from the Play Store on any device",
-		body: "You can easily download the xmoze app from the App Store or Google Play on any device",
+		body: "You can easily download the Irflex app from the App Store or Google Play on any device",
 	},
 	{
 		id: 2,

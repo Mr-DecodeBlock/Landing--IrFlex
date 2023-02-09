@@ -12773,10 +12773,10 @@
 }
 
 @font-face {
-	font-family: "xmoze";
-	src: url("/fonts/xmoze.eot?13031471");
-	src: url("/fonts/xmoze.eot?13031471#iefix") format("embedded-opentype"),
-		url("/fonts/xmoze.woff2?13031471") format("woff2"), url("/fonts/xmoze.woff?13031471") format("woff");
+	font-family: "Irflex";
+	src: url("/fonts/Irflex.eot?13031471");
+	src: url("/fonts/Irflex.eot?13031471#iefix") format("embedded-opentype"),
+		url("/fonts/Irflex.woff2?13031471") format("woff2"), url("/fonts/Irflex.woff?13031471") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -12785,14 +12785,14 @@
 /*
   @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
-      font-family: 'xmoze';
-      src: url('../font/xmoze.svg?13031471#xmoze') format('svg');
+      font-family: 'Irflex';
+      src: url('../font/Irflex.svg?13031471#Irflex') format('svg');
     }
   }
   */
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-	font-family: "xmoze";
+	font-family: "Irflex";
 	font-style: normal;
 	font-weight: normal;
 	speak: never;

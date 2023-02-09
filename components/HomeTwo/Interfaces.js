@@ -10,7 +10,7 @@ export default function Interfaces() {
                         <div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                             <h2>Simple interface for business steering</h2>
                         </div>
-                        <p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Xmoze is a simple software that allows you to run your business easily. One software tool brings the whole business together.</p>
+                        <p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Irflex is a simple software that allows you to run your business easily. One software tool brings the whole business together.</p>
                         <ul className="checked-list">
                             <li className="wow fadeInUp" data-wow-delay=".5s">Calculate inputassets/ output results effortlessly</li>
                             <li className="wow fadeInUp" data-wow-delay=".7s">Prevent waste and increase income</li>

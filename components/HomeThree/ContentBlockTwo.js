@@ -11,7 +11,7 @@ export default function ContentBlockTwo() {
 								<h2>Clean and full intuitive user interface system</h2>
 							</div>
 							<p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-								The Xmoze Banking App interface is so simple that you can easily find out the details of
+								The Irflex Banking App interface is so simple that you can easily find out the details of
 								any change, transaction account, expense in your account.
 							</p>
 							<ul className="checked-list bg-checked color-set">

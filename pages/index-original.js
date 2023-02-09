@@ -13,7 +13,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Xmoze - SaaS Multipurpose Landing Template 2</title>
+				<title>Irflex - Donde el precio lo pones Tú Template 2</title>
 			</Head>
 			<HeroTwo />
 			<FeaturesTwo />

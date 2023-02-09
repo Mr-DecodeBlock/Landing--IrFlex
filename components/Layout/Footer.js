@@ -11,11 +11,11 @@ export default function Footer() {
 								<div className="about-us-widget">
 									<Link href="/">
 										<a className="footer-logo d-block">
-											<img src="img/footer-logo.svg" alt="xmoze" />
+											<img src="img/logo-footer.png" alt="Irflex" />
 										</a>
 									</Link>
 									<p>
-										Xmoze helps millions of people get the best Wordpress theme design and offers
+										Irflex ayuda millions of people get the best Wordpress theme design and offers
 										software reviews, ratings, comprehensive services.
 									</p>
 								</div>
@@ -29,7 +29,7 @@ export default function Footer() {
 								<ul>
 									<li>
 										<Link href="/about">
-											<a>About xmoze</a>
+											<a>About Irflex</a>
 										</Link>
 									</li>
 									<li>
@@ -116,9 +116,9 @@ export default function Footer() {
 					<div className="footer-bottom-content d-md-flex justify-content-between">
 						<div className="site-copyright wow fadeInUp" data-wow-delay=".2" data-wow-duration="1s">
 							<p>
-								&copy; 2022{" "}
+								&copy; 2023{" "}
 								<Link href="#">
-									<a>Xmooze Theme</a>
+									<a>IrFlex</a>
 								</Link>{" "}
 								All Rights Reserved.
 							</p>

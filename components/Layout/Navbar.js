@@ -15,7 +15,7 @@ export default function Navbar() {
 						<div className="logo">
 							<Link href="/">
 								<a>
-									<img src="/img/logo.svg" alt="Xmooze" />
+									<img src="/img/logo-header.png" alt="IrFlex" />
 								</a>
 							</Link>
 						</div>

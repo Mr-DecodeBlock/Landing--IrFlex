@@ -20,9 +20,9 @@ export default function Document() {
 				<link href="/fonts/GeneralSans-Semibold.woff" rel="stylesheet" />
 				<link href="/fonts/GeneralSans-Semibold.woff2" rel="stylesheet" />
 
-				<link href="/fonts/xmoze.eot" rel="stylesheet" />
-				<link href="/fonts/xmoze.woff" rel="stylesheet" />
-				<link href="/fonts/xmoze.woff2" rel="stylesheet" />
+				<link href="/fonts/Irflex.eot" rel="stylesheet" />
+				<link href="/fonts/Irflex.woff" rel="stylesheet" />
+				<link href="/fonts/Irflex.woff2" rel="stylesheet" />
 			</Head>
 			<body>
 				<Main />

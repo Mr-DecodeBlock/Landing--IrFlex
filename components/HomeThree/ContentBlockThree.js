@@ -24,7 +24,7 @@ export default function ContentBlockThree() {
 							<div className="single-featured-item item1 wow fadeInUp" data-wow-delay=".3s">
 								<h4>Download from the Play Store on any device</h4>
 								<p>
-									You can easily download the xmoze app from the App Store or Google Play on any
+									You can easily download the Irflex app from the App Store or Google Play on any
 									device
 								</p>
 							</div>

@@ -17,7 +17,7 @@ export default function ManageData() {
                         <div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                             <h2>Manage data & get instant outgrowth</h2>
                         </div>
-                        <p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Xmoze is a simple software that allows you to run your business easily. One software tool brings success.</p>
+                        <p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Irflex is a simple software that allows you to run your business easily. One software tool brings success.</p>
                         <ul className="checked-list">
                             <li className="wow fadeInUp" data-wow-delay=".5s">Calculate input output results easily</li>
                             <li className="wow fadeInUp" data-wow-delay=".7s">Prevent waste and increase income</li>

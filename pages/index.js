@@ -1,6 +1,6 @@
 import Head from "next/head";
 import FaqContent from "../components/Faq/FaqContent";
-import HeroThree from "../components/Hero/HeroThree";
+import Hero from "../components/Hero/Hero";
 import ContentBlockOne from "../components/HomeThree/ContentBlockOne";
 import ContentBlockThree from "../components/HomeThree/ContentBlockThree";
 import ContentBlockTwo from "../components/HomeThree/ContentBlockTwo";
@@ -13,9 +13,9 @@ export default function indexThree() {
 	return (
 		<>
 			<Head>
-				<title>Xmoze - SaaS Multipurpose Landing Template 3</title>
+				<title>Irflex - Donde el precio lo pones Tú</title>
 			</Head>
-			<HeroThree />
+			<Hero />
 			<FeaturesFour />
 			<Cta />
 			<ContentBlockOne />

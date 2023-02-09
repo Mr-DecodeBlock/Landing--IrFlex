@@ -29,7 +29,7 @@ export default function FeaturesOne() {
 								<AiOutlineBarChart />
 							</div>
 							<h3>Reports & Analytics</h3>
-							<p>View daily transaction reports & analytics easily through xmoze & improve business</p>
+							<p>View daily transaction reports & analytics easily through Irflex & improve business</p>
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-6 col-12">
@@ -38,7 +38,7 @@ export default function FeaturesOne() {
 								<FiSend />
 							</div>
 							<h3>Send & Receive Anytime</h3>
-							<p>Send and receive money at any time with maximum security through xmoze app</p>
+							<p>Send and receive money at any time with maximum security through Irflex app</p>
 						</div>
 					</div>
 				</div>

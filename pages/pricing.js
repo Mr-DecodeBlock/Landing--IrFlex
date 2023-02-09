@@ -10,7 +10,7 @@ export default function Pricing() {
 			</Head>
 			<PageBanner
 				title="Pricing"
-				content="xmoze offers the most affordable planner you can use to improve your business."
+				content="Irflex offers the most affordable planner you can use to improve your business."
 			/>
 			<PricingContent />
 			{/*<FaqWithVideoModal />*/}
