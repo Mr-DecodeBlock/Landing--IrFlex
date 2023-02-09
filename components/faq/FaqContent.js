@@ -3,7 +3,7 @@ import Accordion from "../Accordion/Accordion";
 export const faqsData = [
 	{
 		id: 1,
-		question: "What can I do with Online Banking?",
+		question: "What can I do with Online Banking",
 		answer: "You can view account balances and transaction history, and transfer money between CSB accounts. You can online bill Payment that allows you to pay your bills quickly and easily!",
 	},
 	{
