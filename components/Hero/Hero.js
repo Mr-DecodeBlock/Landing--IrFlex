@@ -13,10 +13,10 @@ export default function Hero() {
 									Mejoramos la calidad de vida de todos nuestros usuarios al permitir el acceso a productos y servicios del mercado, ajustando los precios según la oferta y la demanda.
 								</p>
 								<a href="#" className="app-download-btn">
-									<img src="img/apple.png" alt="" />
+									<img src="img/apple-esp.png" alt="" />
 								</a>
 								<a href="#" className="app-download-btn">
-									<img src="img/android.png" alt="" />
+									<img src="img/android-esp.png" alt="" />
 								</a>
 								<div className="tri-arrow">
 									<img src="img/icons/tir-shape.svg" alt="" />
@@ -25,7 +25,7 @@ export default function Hero() {
 						</div>
 						<div className="col-xl-5 col-12 text-xl-end col-lg-10 offset-lg-1 offset-xl-0">
 							<div className="hero-mobile mt-5 mt-xl-0">
-								<img src="img/mobile-hero1.png" alt="Irflex app" />
+								<img src="img/mobile-hero2.png" alt="Irflex app" />
 							</div>
 						</div>
 					</div>
