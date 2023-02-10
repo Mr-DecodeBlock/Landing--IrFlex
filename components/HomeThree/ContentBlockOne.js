@@ -13,7 +13,7 @@ export default function ContentBlockOne() {
 					<div className="col-xl-6 mt-5 mt-xl-0 offset-xl-1 ps-xl-5">
 						<div className="block-contents">
 							<div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-								<h2>Smart banking app that you must like</h2>
+								<h2>IrFlex Coin la criptomoneda del Ecosistema</h2>
 							</div>
 							<p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
 								Online and mobile banking makes handling your finances easier and more convenient, but

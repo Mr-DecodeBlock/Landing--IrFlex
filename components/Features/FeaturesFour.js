@@ -1,5 +1,5 @@
 import { BiLayerMinus } from "react-icons/bi";
-import { FaHatCowboySide } from "react-icons/fa";
+import { FaCoins } from "react-icons/fa";
 import { MdOutlineMobileScreenShare } from "react-icons/md";
 import { RiSecurePaymentFill } from "react-icons/ri";
 export default function FeaturesFour() {
@@ -9,10 +9,10 @@ export default function FeaturesFour() {
 				<div className="col-lg-8 ps-xl-5 pe-xl-5 col-12 offset-lg-2 text-center">
 					<div className="block-contents">
 						<div className="section-title wow fadeInUp" data-wow-duration="1s">
-							<h2>Strong new features for banking services</h2>
+							<h2>Todo lo que necesitas en una sola aplicación</h2>
 							<p>
-								In mobile banking you get all kinds of modern services It helps you focus on your core
-								business and benefit.
+							Únete al ecosistema de IrFlex y experimenta la libertad de tener un gran número de servicios
+							a tu disposición y se parte de algo grande.
 							</p>
 						</div>
 					</div>
@@ -24,27 +24,27 @@ export default function FeaturesFour() {
 								<BiLayerMinus />
 							</div>
 							<div className="service-title">
-								<h3>Credit and debit card facilities</h3>
+								<h3>Multiples servicios</h3>
 							</div>
 						</div>
 					</div>
 					<div className="col-md-6 col-xl-3">
 						<div className="strong-service-card card2">
 							<div className="icon">
-								<MdOutlineMobileScreenShare />
+								<FaCoins />
 							</div>
 							<div className="service-title">
-								<h3>Pay bills & deposit cheques online</h3>
+								<h3>Nuestra criptomoneda IrFlex Coin</h3>
 							</div>
 						</div>
 					</div>
 					<div className="col-md-6 col-xl-3">
 						<div className="strong-service-card card3">
 							<div className="icon">
-								<FaHatCowboySide />
+								<MdOutlineMobileScreenShare />
 							</div>
 							<div className="service-title">
-								<h3>Lower your overhead fees</h3>
+								<h3>Marketing de referidos</h3>
 							</div>
 						</div>
 					</div>
@@ -54,7 +54,7 @@ export default function FeaturesFour() {
 								<RiSecurePaymentFill />
 							</div>
 							<div className="service-title">
-								<h3>Privacy and secure transactions</h3>
+								<h3>Sistema de franquiciados por rango</h3>
 							</div>
 						</div>
 					</div>

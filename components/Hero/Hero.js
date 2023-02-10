@@ -25,7 +25,7 @@ export default function Hero() {
 						</div>
 						<div className="col-xl-5 col-12 text-xl-end col-lg-10 offset-lg-1 offset-xl-0">
 							<div className="hero-mobile mt-5 mt-xl-0">
-								<img src="img/mobile-hero2.png" alt="Irflex app" />
+								<img src="img/mobile-hero2.png" alt="IrflexApp" />
 							</div>
 						</div>
 					</div>

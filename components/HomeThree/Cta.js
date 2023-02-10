@@ -14,10 +14,10 @@ export default function Cta() {
                         </div>
                         <div className="text-center text-xl-start col-xl-6 order-1 order-xl-2">
                             <div className="cta-contents pe-lg-5">
-                                <h2 className="wow fadeInUp">Download & explore best online banking</h2>
-                                <p className="wow fadeInUp" data-wow-delay=".3s">Easily download and use the most efficient online banking app. Make banking easier and faster.</p>
-                                <a href="#" className="app-download-btn wow fadeInUp" data-wow-delay=".6s"><img src="/img/apple.png" alt="" /></a>
-                                <a href="#" className="app-download-btn wow fadeInUp" data-wow-delay=".8s"><img src="/img/android.png" alt="" /></a>
+                                <h2 className="wow fadeInUp">Muy pronto descargaras nuestra App</h2>
+                                <p className="wow fadeInUp" data-wow-delay=".3s">Mantente atento! Pronto podrás descargar la aplicación de IrFlex, estamos trabajando para agregar aún más funciones y mejorar tu experiencia.</p>
+                                {/*<a href="#" className="app-download-btn wow fadeInUp" data-wow-delay=".6s"><img src="/img/apple-esp.png" alt="" /></a>
+                                <a href="#" className="app-download-btn wow fadeInUp" data-wow-delay=".8s"><img src="/img/android-esp.png" alt="" /></a>*/}
                             </div>
                         </div>
                     </div>
