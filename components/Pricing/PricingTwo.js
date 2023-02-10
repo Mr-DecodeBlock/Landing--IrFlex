@@ -13,14 +13,14 @@ export default function PricingTwo({ content }) {
 						<Tab>
 							<div className="nav-item">
 								<button className="nav-link active" type="button">
-									Monthly
+									Populares
 								</button>
 							</div>
 						</Tab>
 						<Tab>
 							<div className="nav-item">
 								<button className="nav-link" type="button">
-									Yearly
+									VIP
 								</button>
 							</div>
 						</Tab>

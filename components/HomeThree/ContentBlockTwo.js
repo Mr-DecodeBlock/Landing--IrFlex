@@ -8,18 +8,18 @@ export default function ContentBlockTwo() {
 					<div className="col-xl-5 mt-5 mt-xl-0 order-2 order-xl-1">
 						<div className="block-contents">
 							<div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-								<h2>Clean and full intuitive user interface system</h2>
+								<h2>IrFlex Coin la moneda que te lleva más lejos</h2>
 							</div>
 							<p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-								The Irflex Banking App interface is so simple that you can easily find out the details of
-								any change, transaction account, expense in your account.
+								Con IrFlex Coin los usuarios acceder a una amplia gama de servicios en IrFlex, 
+								permitiéndoles ganar dinero. ¡Adquiere IrFlex Coin y Únete a la revolución financiera con IrFlex Coin!
 							</p>
 							<ul className="checked-list bg-checked color-set">
 								<li className="wow fadeInUp" data-wow-delay=".5s">
-									This will help speed up your business
+									Moneda Deflacionaria que aumenta su valor con cada transacción
 								</li>
 								<li className="wow fadeInUp" data-wow-delay=".7s">
-									Make money security and control easier
+									Aumenta su valor con cada transacción en la app de IrFlex
 								</li>
 							</ul>
 						</div>

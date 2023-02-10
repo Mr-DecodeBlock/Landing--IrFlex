@@ -3,56 +3,54 @@ import PricingTwo from "./PricingTwo";
 const pricingData = [
 	{
 		id: 1,
-		plan: "Starter",
-		price: 10,
-		features: ["Limited Access Library", "Individual User Capabilities", "No Updates Facility", "Standard support"],
+		plan: "Free",
+		price: 0,
+		features: [	"Inversión: 0 IRC", 
+					"Recarga Gratis: 0 USD",
+					"% de recargas: 10%", 
+					"% franquicias vendidas: 2%",
+					"Sub-Distribuidores: 0"
+		],
 		popular: false,
 	},
 	{
 		id: 2,
-		plan: "Basic",
-		price: 45,
-		features: ["Full Access Library", "Limited Access Library", "Free Lifetime Updates Facilit", "Premium support"],
-		popular: true,
+		plan: "Silver",
+		price: 5560,
+		features: [	"Inversión: 5560 IRC", 
+					"Recarga Gratis: 100 USD",
+					"% de recargas: 20%", 
+					"% franquicias vendidas: 5%",
+					"Sub-Distribuidore: 5"
+		],
+		popular: false,
 	},
 	{
 		id: 3,
-		plan: "Premium ",
-		price: 100,
+		plan: "Oro",
+		price: 16670,
 		features: [
-			"Full Access Library",
-			"Multiple User Capabilities",
-			"Free Lifetime Updates Facility",
-			"Dedicated Support",
+					"Inversión: 16670 IRC", 
+					"Recarga Gratis: 300 USD",
+					"% de recargas: 35%", 
+					"% franquicias vendidas: 10%",
+					"Sub-Distribuidore: 10"
 		],
-		popular: false,
-	},
-	{
-		id: 4,
-		plan: "Starter",
-		price: 49,
-		features: ["Limited Access Library", "Individual User Capabilities", "No Updates Facility", "Standard support"],
-		popular: false,
-	},
-	{
-		id: 5,
-		plan: "Basic",
-		price: 199,
-		features: ["Full Access Library", "Limited Access Library", "Free Lifetime Updates Facilit", "Premium support"],
 		popular: true,
 	},
 	{
-		id: 6,
-		plan: "Premium ",
-		price: 145,
-		features: [
-			"Full Access Library",
-			"Multiple User Capabilities",
-			"Free Lifetime Updates Facility",
-			"Dedicated Support",
+		id: 4,
+		plan: "Diamante",
+		price: 27780,
+		features: [	"Inversión: 27780 IRC", 
+					"Recarga Gratis: 800 USD",
+					"% de recargas: 50%", 
+					"% franquicias vendidas: 20%",
+					"Sub-Distribuidore: 30"
 		],
 		popular: false,
 	},
+	
 ];
 
 export default function PricingContentTwo() {
@@ -62,10 +60,9 @@ export default function PricingContentTwo() {
 				<div className="col-lg-8 col-xl-6 offset-xl-3 offset-lg-2 text-center">
 					<div className="block-contents fw500">
 						<div className="section-title">
-							<h2 className="wow fadeInUp">Easy and affordable plan for everyone</h2>
+							<h2 className="wow fadeInUp">Sistema de franquiciados</h2>
 							<p className="wow fadeInUp pt-4" data-wow-delay=".3s">
-								Easy budgeting method that can help you to manage your money effectively, simply and
-								sustainably.
+							Cualquier persona volverse participe de las ganancias de IrFlex generando ganancias mensuales.
 							</p>
 						</div>
 					</div>

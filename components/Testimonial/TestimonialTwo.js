@@ -51,7 +51,7 @@ export default function TestimonialTwo() {
 						<div className="block-contents fw500 text-center text-lg-start">
 							<div className="section-title">
 								<h2 className="wow fadeInLeft" data-wow-duration="1.1s">
-									We have powerful user experience
+									Servicios a tu disposición en la App de IrFlex
 								</h2>
 							</div>
 						</div>
@@ -73,7 +73,7 @@ export default function TestimonialTwo() {
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/6.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/4.png)" }}
 							></div>
 							<div className="feedback">
 								“This app has made my banking work much easier which saves me a lot of time, I have
@@ -81,7 +81,7 @@ export default function TestimonialTwo() {
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Scott Swanson</h6>
+									<h6>Servicios de Taxi</h6>
 									<span>Account executive</span>
 								</div>
 							</div>
@@ -89,7 +89,7 @@ export default function TestimonialTwo() {
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/4.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/5.png)" }}
 							></div>
 							<div className="feedback">
 								“By using online banking, I can easily keep track of various expenses, which saves me a

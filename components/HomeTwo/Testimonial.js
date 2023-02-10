@@ -50,7 +50,7 @@ export default function Testimonial() {
 						<div className="block-contents text-center text-lg-start">
 							<div className="section-title">
 								<h2 className="wow fadeInLeft" data-wow-duration="1.1s">
-									We have powerful user experience
+									Hola We have powerful user experience
 								</h2>
 							</div>
 						</div>

@@ -15,7 +15,7 @@ export default function SinglePrice({ price }) {
 					<h2>
 						$<span>{price.price}</span>
 					</h2>
-					<p>/Per Month</p>
+					<p>/Anual</p>
 				</div>
 			</div>
 			<div className="features-list">
@@ -27,7 +27,7 @@ export default function SinglePrice({ price }) {
 			</div>
 			<div className="buy-package-btn">
 				<Link href="/contact">
-					<a className={`theme-btn red-color ${!price.popular ? "minimal-btn" : ""}`}>Choose Plan</a>
+					<a className={`theme-btn red-color ${!price.popular ? "minimal-btn" : ""}`}>Escoge Plan</a>
 				</Link>
 			</div>
 		</div>

@@ -3,21 +3,21 @@ import Pricing from "./Pricing";
 const pricingData = [
 	{
 		id: 1,
-		plan: "Starter",
+		plan: "Free",
 		price: 10,
 		features: ["Limited Access Library", "Individual User Capabilities", "No Updates Facility", "Standard support"],
 		popular: false,
 	},
 	{
 		id: 2,
-		plan: "Basic",
+		plan: "Silver",
 		price: 45,
 		features: ["Full Access Library", "Limited Access Library", "Free Lifetime Updates Facilit", "Premium support"],
 		popular: true,
 	},
 	{
 		id: 3,
-		plan: "Premium ",
+		plan: "Oro",
 		price: 100,
 		features: [
 			"Full Access Library",
@@ -38,7 +38,7 @@ export default function PricingContent() {
 						<div className="section-title">
 							<h2 className="wow fadeInUp">The most affordable pricing plan for you</h2>
 							<p className="wow fadeInUp pt-4" data-wow-delay=".3s">
-								Irflex offers the most affordable planner you can use to improve your business. Such
+								xmoze offers the most affordable planner you can use to improve your business. Such
 								affordable prices are not available anywhere.
 							</p>
 						</div>

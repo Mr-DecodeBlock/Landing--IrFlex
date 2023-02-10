@@ -13,32 +13,29 @@ export default function ContentBlockThree() {
 					<div className="col-lg-6 mt-5 mt-lg-0 offset-lg-1 col-12 ps-lg-5 pe-lg-5">
 						<div className="block-contents ms-xl-3">
 							<div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-								<h2>Simple & effortless process app setup</h2>
+								<h2>Adquiere IrFlex Coin Ahora</h2>
 							</div>
 							<p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-								You can easily download the app on your mobile & open a bank account in your name with
-								the required information.
+								Adquiere nuestra moneda deflacionaria y comienza a ganar con cada movimiento, No pierdas la oportunidad de formar parte de un futuro mejor.
 							</p>
 						</div>
 						<div className="step-features">
 							<div className="single-featured-item item1 wow fadeInUp" data-wow-delay=".3s">
-								<h4>Download from the Play Store on any device</h4>
+								<h4>Inscríbete en nuestra plataforma</h4>
 								<p>
-									You can easily download the Irflex app from the App Store or Google Play on any
-									device
+									Únete a la comunidad IrFlex hoy mismo. Inscríbete en nuestra plataforma y accede a un mundo de posibilidades
 								</p>
 							</div>
 							<div className="single-featured-item item2 wow fadeInUp" data-wow-delay=".5s">
-								<h4>Create an account with needful information</h4>
+								<h4>Registra tu wallet de criptomonedas</h4>
 								<p>
-									Open a secure account for yourself with your name and necessary information that
-									need
+									Registra tu billetera de criptomonedas en IrFlex y usa de manera segura y fácil tus activos digitales
 								</p>
 							</div>
 							<div className="single-featured-item item3 wow fadeInUp" data-wow-delay=".7s">
-								<h4>Experience best banking services anytime</h4>
+								<h4>Compra IrFlex Coin con USDT</h4>
 								<p>
-									Mobile banking allows consumers to be able to access banking services from anywhere.
+									Compra IrFlex Coin con USDT en nuestra plataforma y conviertete en parte de la comunidad de IrFlex
 								</p>
 							</div>
 						</div>
