@@ -12774,9 +12774,9 @@
 
 @font-face {
 	font-family: "Irflex";
-	src: url("/fonts/Irflex.eot?13031471");
-	src: url("/fonts/Irflex.eot?13031471#iefix") format("embedded-opentype"),
-		url("/fonts/Irflex.woff2?13031471") format("woff2"), url("/fonts/Irflex.woff?13031471") format("woff");
+	src: url("/fonts/xmoze.eot?13031471");
+	src: url("/fonts/xmoze.eot?13031471#iefix") format("embedded-opentype"),
+		url("/fonts/xmoze.woff2?13031471") format("woff2"), url("/fonts/xmoze.woff?13031471") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -12868,7 +12868,7 @@
 .icon-lock:before {
 	content: "\e80d";
 } /* '' */
-.icon-play:before {
+.icon-play:before { 
 	content: "\e80e";
 } /* '' */
 .icon-check:before {

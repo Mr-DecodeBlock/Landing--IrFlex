@@ -13,11 +13,10 @@ export default function ContentBlockOne() {
 					<div className="col-xl-6 mt-5 mt-xl-0 offset-xl-1 ps-xl-5">
 						<div className="block-contents">
 							<div className="section-title mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-								<h2>IrFlex Coin la criptomoneda del Ecosistema</h2>
+								<h2>IrFlexCoin impulsando un estilo de vida.</h2>
 							</div>
 							<p className="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-								Online and mobile banking makes handling your finances easier and more convenient, but
-								it is imperative to make sure that you are protecting your financial information.
+								IrFlex Coin es la moneda digital que impulsa el ecosistema de IrFlex. Con ella, puedes acceder a la amplia gama de servicios en la plataforma y hasta obtener beneficios con ella.
 							</p>
 							<ul className="checked-list bg-checked">
 								<li className="wow fadeInUp" data-wow-delay=".5s">
