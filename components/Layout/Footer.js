@@ -24,27 +24,27 @@ export default function Footer() {
 						<div className="col-xl-2 col-lg-3 offset-xl-1 col-md-6 col-12">
 							<div className="single-footer-widget wow fadeInLeft" data-wow-delay=".2s">
 								<div className="widget-title">
-									<h5>Company</h5>
+									<h5>Usuarios</h5>
 								</div>
 								<ul>
 									<li>
 										<Link href="/about">
-											<a>About Irflex</a>
+											<a>Nosotros</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="/contact">
-											<a>Contact & support</a>
+											<a>IrFlex Coin</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="/#">
-											<a>Setting & privacy</a>
+											<a>Franquiciados</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="#">
-											<a>Setting & privacy</a>
+											<a>Contacto</a>
 										</Link>
 									</li>
 								</ul>
@@ -53,27 +53,27 @@ export default function Footer() {
 						<div className="col-xl-2 col-lg-3 offset-xl-1 col-md-6 col-12">
 							<div className="single-footer-widget wow fadeInLeft" data-wow-delay=".4s">
 								<div className="widget-title">
-									<h5>Services</h5>
+									<h5>Soporte</h5>
 								</div>
 								<ul>
 									<li>
 										<Link href="#">
-											<a>Incident responder</a>
+											<a>Soporte</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="#">
-											<a>Secure managed IT</a>
+											<a>Privacidad</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="#">
-											<a>Check website Url</a>
+											<a>Términos</a>
 										</Link>
 									</li>
 									<li>
 										<Link href="#">
-											<a>Locker security</a>
+											<a>Denuncias</a>
 										</Link>
 									</li>
 								</ul>
@@ -82,27 +82,27 @@ export default function Footer() {
 						<div className="col-xl-2 col-lg-3 offset-xl-1 col-md-6 col-12">
 							<div className="single-footer-widget wow fadeInLeft" data-wow-delay=".6s">
 								<div className="widget-title">
-									<h5>Resources</h5>
+									<h5>Recursos</h5>
 								</div>
 								<ul>
 									<li>
-										<Link href="#">
-											<a>Payment plans</a>
+										<Link href="https://www.gitbook.com/">
+											<a>WhitePaper</a>
 										</Link>
 									</li>
 									<li>
-										<Link href="#">
-											<a>Blogs & guides</a>
+										<Link href="https://www.gitbook.com/">
+											<a>Documentación</a>
 										</Link>
 									</li>
 									<li>
-										<Link href="#">
-											<a>Premium support</a>
+										<Link href="https://bscscan.com/">
+											<a>Contrato IRC</a>
 										</Link>
 									</li>
 									<li>
-										<Link href="#">
-											<a>Our products</a>
+										<Link href="https://linktr.ee/">
+											<a>Redes Sociales</a>
 										</Link>
 									</li>
 								</ul>

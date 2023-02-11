@@ -76,13 +76,12 @@ export default function TestimonialTwo() {
 								style={{ backgroundImage: "url(/img/testimonial/4.png)" }}
 							></div>
 							<div className="feedback">
-								“This app has made my banking work much easier which saves me a lot of time, I have
-								become a fan of it.”
+								Con nuestra tecnología de geolocalización, puedes ver la ubicación de tu conductor y recibir actualizaciones sobre tu viaje.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Servicios de Taxi</h6>
-									<span>Account executive</span>
+									
+									<span>Servicio de taxi</span>
 								</div>
 							</div>
 						</div>
@@ -92,77 +91,72 @@ export default function TestimonialTwo() {
 								style={{ backgroundImage: "url(/img/testimonial/5.png)" }}
 							></div>
 							<div className="feedback">
-								“By using online banking, I can easily keep track of various expenses, which saves me a
-								lot of money.”
+								Tendrás acceso a precios ajustados según tu oferta al solicitar comidas, lo que significa que obtendrás el mejor servicio por tu dinero.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Karen Lynn</h6>
-									<span>Marketing Expert</span>
+					
+									<span>Servicio de comida</span>
 								</div>
 							</div>
 						</div>
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/5.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/6.png)" }}
 							></div>
 							<div className="feedback">
-								“I can now complete banking work from anywhere anytime, making my business work more
-								dynamic.”
+								Podrás encontrar la mejor opción para ti con nuestra amplia selección de opciones de alojamiento además podrás pagar con IrFlex Coin.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Sean Jacobs</h6>
-									<span>Businessman</span>
+
+									<span>Servicio de hospedaje</span>
 								</div>
 							</div>
 						</div>
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/5.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/3.png)" }}
 							></div>
 							<div className="feedback">
-								“This app has made my banking work much easier which saves me a lot of time, I have
-								become a fan of it.”
+								Haz tu pedido y espera a que llegue a tu puerta, ahorra tiempo y evita las molestias del tráfico y ahorra tiempo y dinero en gasolina.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Scott Swanson</h6>
-									<span>Account executive</span>
+								
+									<span>Servicio de delivery</span>
 								</div>
 							</div>
 						</div>
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/6.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/2.png)" }}
 							></div>
 							<div className="feedback">
-								“By using online banking, I can easily keep track of various expenses, which saves me a
-								lot of money.”
+								Puedes pagar tus facturas desde la comodidad de tu hogar y estar seguro de que tus servicios estarán siempre al día.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Karen Lynn</h6>
-									<span>Marketing Expert</span>
+									
+									<span>Pagos de servicios</span>
 								</div>
 							</div>
 						</div>
 						<div className="single-testimoinal-box">
 							<div
 								className="client-img bg-cover"
-								style={{ backgroundImage: "url(/img/testimonial/6.jpg)" }}
+								style={{ backgroundImage: "url(/img/testimonial/1.png)" }}
 							></div>
 							<div className="feedback">
-								“I can now complete banking work from anywhere anytime, making my business work more
-								dynamic.”
+								Todos estos servicios están disponibles en la aplicación y se pueden contratar de manera facil, sencilla y conveniente.
 							</div>
 							<div className="client-info">
 								<div className="client-name">
-									<h6>Sean Jacobs</h6>
-									<span>Businessman</span>
+									
+									<span>Servicios domesticos</span>
 								</div>
 							</div>
 						</div>
