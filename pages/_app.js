@@ -14,16 +14,16 @@ function MyApp({ Component, pageProps }) {
 			<Head>
 				<link rel="icon" href="/img/favicon.png" />
 
-				<meta name="description" content="Irflex" key="IrFlex" />
-  				<meta property="og:description" content="Donde el precio lo pones tu" />
+				<meta name="description" content="IrFlex" key="IrFlex" />
+  				<meta property="og:description" content="Todos tus servicios en donde el precio lo pones tu" />
   				<meta property="og:type" content="web" />
 				<meta property="og:url" content="https://landing-page-ir-flex.vercel.app/" />
-				<meta property="og:site_name" content="Irflex - Donde el precio lo pones tu" />
+				<meta property="og:site_name" content="IrFlex - Donde el precio lo pones tu" />
 
-  				<meta property="og:image" content="https://landing-page-ir-flex.vercel.app/img/mobile-hero2.png" />
+  				<meta property="og:image" content="https://landing-page-ir-flex.vercel.app/img/card-redes.png" />
  				<meta property="og:image:type" content="image/png" />
-  				<meta property="og:image:width" content="446" />
-  				<meta property="og:image:height" content="686" />
+  				<meta property="og:image:width" content="600" />
+  				<meta property="og:image:height" content="600" />
 
 			</Head>
 			<Layout>
