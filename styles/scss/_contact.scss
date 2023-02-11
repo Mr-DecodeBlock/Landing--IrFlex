@@ -98,12 +98,30 @@
 		}
 	}
 
+	&.box4 {
+		.icon {
+			background: #3b5998;
+		}
+	}
+
+	&.box5 {
+		.icon {
+			background: #8499f7;
+		}
+	}
+
+	&.box6 {
+		.icon {
+			background: #cf3af5;
+		}
+	}
+
 	.icon {
 		width: 60px;
 		height: 60px;
 		line-height: 60px;
 		color: #fff;
-		background-color: #ef2469;
+		background-color: #00bb2d;
 		margin: 0 auto;
 		margin-bottom: 25px;
 		border-radius: 50%;

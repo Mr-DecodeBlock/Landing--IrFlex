@@ -6,11 +6,11 @@ export default function contact() {
 	return (
 		<>
 			<Head>
-				<title>Contact Page</title>
+				<title>Contacto</title>
 			</Head>
 			<PageBanner
-				title="Contact Us"
-				content="Feel free to contact us anytime if you have any questions or needs by phone or email."
+				title="Contáctanos"
+				content="No dude en contactarnos en cualquier momento"
 			/>
 			<ContactContent />
 		</>
