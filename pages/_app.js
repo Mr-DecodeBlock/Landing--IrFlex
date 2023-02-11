@@ -22,8 +22,8 @@ function MyApp({ Component, pageProps }) {
 
   				<meta property="og:image" content="https://landing-page-ir-flex.vercel.app/img/cardredes.png" />
  				<meta property="og:image:type" content="image/png" />
-  				<meta property="og:image:width" content="600" />
-  				<meta property="og:image:height" content="600" />
+  				<meta property="og:image:width" content="300" />
+  				<meta property="og:image:height" content="300" />
 
 			</Head>
 			<Layout>
