@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
 				<meta property="og:url" content="https://landing-page-ir-flex.vercel.app/" />
 				<meta property="og:site_name" content="IrFlex - Donde el precio lo pones tu" />
 
-  				<meta property="og:image" content="https://landing-page-ir-flex.vercel.app/img/card-redes.png" />
+  				<meta property="og:image" content="https://landing-page-ir-flex.vercel.app/img/cardredes.png" />
  				<meta property="og:image:type" content="image/png" />
   				<meta property="og:image:width" content="600" />
   				<meta property="og:image:height" content="600" />
