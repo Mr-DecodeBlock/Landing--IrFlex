@@ -44,13 +44,14 @@ export default function Navbar() {
 											</li>
 										</ul> */}
 									</li>
-									<li>
+									
+									{/* <li>
 										<Link href="/about">
 											<a>Nosotros</a>
 										</Link>
-									</li>
+									</li> */}
 
-									<li>
+									{/* <li>
 										<a href="#">Productos</a>
 										<ul className="sub-menu">
 											<li>
@@ -58,7 +59,7 @@ export default function Navbar() {
 													<a>IrFlex Coin</a>
 												</Link>
 											</li>
-											{/* <li>
+											 <li>
 												<Link href="/team">
 													<a>team</a>
 												</Link>
@@ -67,29 +68,33 @@ export default function Navbar() {
 												<Link href="/projects">
 													<a>portfolio</a>
 												</Link>
-											</li> */}
+											</li> 
 											<li>
 												<Link href="/pricing">
 													<a>Franquiciados</a>
 												</Link>
 											</li>
-											{/* <li>
+											<li>
 												<Link href="/404">
 													<a>404</a>
 												</Link>
-											</li> */}
+											</li> 
 										</ul>
-									</li>
+									</li> */} 
+
+
 									{/* <li>
 										<Link href="/news">
 											<a>News</a>
 										</Link>
-									</li> */}
+									</li> */} 
+
 									<li>
 										<Link href="/contact">
 											<a>Contacto</a>
 										</Link>
 									</li>
+
 								</ul>
 							</div>
 						</div>

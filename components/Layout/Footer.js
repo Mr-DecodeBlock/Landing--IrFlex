@@ -29,7 +29,7 @@ export default function Footer() {
 								<ul>
 									<li>
 										<Link href="/about">
-											<a>Nosotros</a>
+											<a>Presentación</a>
 										</Link>
 									</li>
 									<li>

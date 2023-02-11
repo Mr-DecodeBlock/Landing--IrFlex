@@ -11,11 +11,11 @@ export default function about() {
 	return (
 		<>
 			<Head>
-				<title>About Page</title>
+				<title>Nosotros</title>
 			</Head>
 			<PageBanner
-				title="About Us"
-				content="We work to create some of the most attractive and meaningful places for small businesses."
+				title="IrFlex un estilo de vida"
+				content="En IrFlex ofrecemos una amplia gama de servicios y posibilidades de generar ganancias"
 			/>
 			<ContentOne />
 			<FeaturesThree />
