@@ -25,7 +25,7 @@ export default function Navbar() {
 							<div className="main-menu">
 								<ul>
 									<li>
-										<a href="/index-two">Home</a>
+										<a href="/">Home</a>
 										{/* <ul className="sub-menu">
 											<li>
 												<Link href="/">
@@ -46,21 +46,16 @@ export default function Navbar() {
 									</li>
 									<li>
 										<Link href="/about">
-											<a>About</a>
+											<a>Nosotros</a>
 										</Link>
 									</li>
+
 									<li>
-										{" "}
-										<Link href="/services">
-											<a>Services</a>
-										</Link>
-									</li>
-									<li>
-										<a href="#">Pages</a>
+										<a href="#">Productos</a>
 										<ul className="sub-menu">
 											<li>
 												<Link href="/faq">
-													<a>faq</a>
+													<a>IrFlex Coin</a>
 												</Link>
 											</li>
 											{/* <li>
@@ -75,14 +70,14 @@ export default function Navbar() {
 											</li> */}
 											<li>
 												<Link href="/pricing">
-													<a>pricing</a>
+													<a>Franquiciados</a>
 												</Link>
 											</li>
-											<li>
+											{/* <li>
 												<Link href="/404">
 													<a>404</a>
 												</Link>
-											</li>
+											</li> */}
 										</ul>
 									</li>
 									{/* <li>
